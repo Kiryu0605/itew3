@@ -5,7 +5,7 @@
 		private $server = "localhost";
 		private $username = "root";
 		private $password;
-		private $db = "oop_crud";
+		private $db = "people";
 		private $conn;
 
 		public function __construct(){
